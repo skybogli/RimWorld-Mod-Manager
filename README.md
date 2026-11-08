@@ -35,7 +35,7 @@ and tells you in the app when a new version is out.
 - 바꾸는 파일은 `ModsConfig.xml`의 `activeMods`(켜진 모드와 순서) 하나뿐입니다. `version`·`knownExpansions`는 그대로 둡니다.
   위치: `%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\ModsConfig.xml` (설정에서 바꿀 수 있음)
 - 저장하기 전에 이전 파일을 `%APPDATA%\RimWorld Mod Manager\backups`에 백업합니다.
-- 모드 파일은 읽기만 합니다. 모드 도구로 만든 번역 모드는 새 폴더로 만들어집니다.
+- 모드 파일은 읽기만 합니다. 모드 도구는 아직 테스트 단계입니다.
 
 ---
 
