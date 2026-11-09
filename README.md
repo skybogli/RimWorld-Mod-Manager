@@ -27,7 +27,10 @@ and tells you in the app when a new version is out.
 - **세이브 탭**: 세이브 파일(.rws)의 모드 목록을 지금 목록과 비교합니다.
 - **한글화**: 카드에 한국어 번역 포함 여부를 표시하고, 한글화 모드와 원본의 관계를 정리해 보여 줍니다.
   **모드 도구**에서 모드를 번역해 번역 모드로 만들 수 있습니다(구글 번역, AI 엔진).
-- **목록 공유**: 내보내기·가져오기(ModsConfig.xml, 모드 목록 파일, 세이브 .rws), 목록 문자열(`RANDY1:`), 목록 뷰어 창.
+- **목록 공유**: 내보내기·가져오기(ModsConfig.xml, 모드 목록 파일, 세이브 .rws), 목록 문자열(`RANDY1:`),
+  창작마당 주소·번호·packageId·이름을 붙여 넣거나 브라우저에서 끌어다 놓기(문자열과 섞어도 됨),
+  목록 뷰어 창(빈 뷰어, 창 사이 모드 보내기, 프리셋으로 저장). 설치 안 된 모드는 자리표시로 들어와 구독 대기열로 받습니다.
+- **DLC**: Core·DLC의 설명과 Steam 상점 페이지, 목록에 있지만 갖고 있지 않은 DLC는 '구매 필요'로 표시.
 - **기타**: 창작마당 구독 대기열, 모드 설명 번역, 게임 로그에서 문제 모드 찾기, 11개 언어 화면.
 
 ## 게임 파일은 어떻게 다루나요
@@ -51,7 +54,10 @@ and tells you in the app when a new version is out.
 - **Saves tab**: a save's (.rws) mod list compared with the current one.
 - **Translations**: shows which mods have a Korean (or your game language's) translation; the **Mod Tools** window turns
   a mod's text into a translation mod of its own (Google Translate or AI engines).
-- **Sharing**: export / import (ModsConfig.xml, mod list files, saves), list strings (`RANDY1:`), a list viewer window.
+- **Sharing**: export / import (ModsConfig.xml, mod list files, saves), list strings (`RANDY1:`), pasted or dragged-in
+  Workshop links, numbers, package ids and names (mixed with strings too), list viewer windows (empty viewers, sending mods
+  between windows, saving as a preset). Mods that aren't installed come in as placeholders for the subscribe queue.
+- **DLC**: descriptions and Steam store pages for Core and the DLC; a DLC in a list that you don't own is marked "Not owned".
 - **More**: Workshop subscribe queue, description translation, finding the mod behind errors in the game log, 11 UI languages.
 
 ## What it changes in the game
